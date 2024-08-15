@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a4 as o}from"./chunks/framework.CfbOou38.js";const d=JSON.parse('{"title":"简要介绍","description":"","frontmatter":{},"headers":[],"relativePath":"xuyan/intro.md","filePath":"xuyan/intro.md"}'),s={name:"xuyan/intro.md"},r=o("",13),p=[r];function i(c,l,n,u,_,h){return e(),a("div",null,p)}const f=t(s,[["render",i]]);export{d as __pageData,f as default};
