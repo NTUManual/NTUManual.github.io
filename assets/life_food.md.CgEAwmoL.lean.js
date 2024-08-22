@@ -1,0 +1,1 @@
+import{_ as l,c as a,o as i,a4 as e}from"./chunks/framework.qL1yNBZ5.js";const q=JSON.parse('{"title":"通大美食大盘点","description":"","frontmatter":{},"headers":[],"relativePath":"life/food.md","filePath":"life/food.md"}'),t={name:"life/food.md"},o=e("",32),r=[o];function h(d,n,u,c,s,_){return i(),a("div",null,r)}const f=l(t,[["render",h]]);export{q as __pageData,f as default};

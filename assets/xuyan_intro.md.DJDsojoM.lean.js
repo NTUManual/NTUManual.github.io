@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a4 as s}from"./chunks/framework.qL1yNBZ5.js";const h=JSON.parse('{"title":"简要介绍","description":"","frontmatter":{},"headers":[],"relativePath":"xuyan/intro.md","filePath":"xuyan/intro.md"}'),o={name:"xuyan/intro.md"},p=s("",15),r=[p];function i(c,l,n,u,_,m){return e(),a("div",null,r)}const k=t(o,[["render",i]]);export{h as __pageData,k as default};
